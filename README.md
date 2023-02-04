@@ -1,5 +1,12 @@
-# exercise-html
+## Web safe fonts
 
-simple-exercises
+- Ariel
+- Helvetica
+- Georgia
+- Times New Roman
 
-## first change
+## Where to find fonts
+
+- [fontsquirrel](fontssquirrel.com)
+- [fonts](fonts.com)
+- [myfonts](myfonts.com)
